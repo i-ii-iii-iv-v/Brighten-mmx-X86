@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\alex\desktop\c++\assembly\assembly\source.cpp(464): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'INT64'
+  c:\users\alex\desktop\c++\assembly\assembly\source.cpp(464): note: consider using '%lld' in the format string
+  c:\users\alex\desktop\c++\assembly\assembly\source.cpp(464): note: consider using '%I64d' in the format string
+c:\users\alex\desktop\c++\assembly\assembly\source.cpp(488): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'INT64'
+  c:\users\alex\desktop\c++\assembly\assembly\source.cpp(488): note: consider using '%lld' in the format string
+  c:\users\alex\desktop\c++\assembly\assembly\source.cpp(488): note: consider using '%I64d' in the format string
+c:\users\alex\desktop\c++\assembly\assembly\source.cpp(396): warning C4101: 'bitmap': unreferenced local variable
+c:\users\alex\desktop\c++\assembly\assembly\source.cpp(195): warning C4799: function 'mmx_brighten' has no EMMS instruction
+  Assembly.vcxproj -> C:\Users\Alex\Desktop\C++\Assembly\Debug\Assembly.exe
+  Assembly.vcxproj -> C:\Users\Alex\Desktop\C++\Assembly\Debug\Assembly.pdb (Partial PDB)
